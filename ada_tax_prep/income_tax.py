@@ -15,7 +15,7 @@ DEDUCTION_CATEGORIES = (
     "healthcare"
 )
 
-STANDARD_DEDUCTION_2020 = 10000
+STANDARD_DEDUCTION_2020 = 12400
 
 def calculate_tax_by_bracket(income, brackets):
     if income <= 0:
